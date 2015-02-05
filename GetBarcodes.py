@@ -29,4 +29,4 @@ while True:
 		barcodes.append(match)
 
 for i in barcodes:
-	print i
+	print i 
